@@ -4,7 +4,7 @@ Name: Catherine Lattimore Clemmons
 
 Major / program: MS Data Science and Analytics
 
-Favorite dataset or industry interest:
+Favorite dataset or industry interest: I did a project analyzing my personal indoor cycling performance data that was very interesting
 
 One reason I am studying analytics:
   
