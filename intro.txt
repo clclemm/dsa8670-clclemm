@@ -6,5 +6,5 @@ Major / program: MS Data Science and Analytics
 
 Favorite dataset or industry interest: I did a project analyzing my personal indoor cycling performance data that was very interesting
 
-One reason I am studying analytics:
+One reason I am studying analytics: I love learning and there's a lot we can learn by being creative and exploring data!
   
