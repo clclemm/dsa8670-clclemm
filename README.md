@@ -73,3 +73,17 @@ By the end of Week 5, you should be able to:
 ## License
 
 This repository uses the MIT License (see `LICENSE`).
+
+--- 
+
+## Week 5 Assignment
+
+Version control matters for analytics because we need to keep track of changes so that 
+when something goes wrong or a change has unintended side effects, we can undo it and go 
+back to a prior version. It is also important because analytics is frequently done in a 
+team setting, so having version control helps ensure that one team member’s changes to an 
+analysis don’t conflict with another’s. This week’s readings discuss using branching 
+to allow people to make changes separately before merging them back together, which helps 
+manage this collaboration. Using tools like GitHub can make version control and managing 
+work within a team more seamless, while also making our work as analysts easier to share 
+and collaborate on.
