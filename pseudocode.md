@@ -8,4 +8,4 @@ Step 3: Calculate relevant summary statistics for the dataset.
 
 Step 4: Create visualizations to expolore patterns and relationships in the data, using different visualizations base on the type of data (categorical, numeric, ordinal, etc.)
 
-step 5: Interpest the results of the summary statistics and visualization. 
+Step 5: Interpest the results of the summary statistics and visualization. 
